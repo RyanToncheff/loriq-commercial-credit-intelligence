@@ -1,8 +1,8 @@
 # LORIQ Technologies
 
-## Commercial Credit Intelligence for Modern Borrowers
+## LORIQ: AI Commercial Credit Intelligence Software for Middle-Market Companies
 
-LORIQ Technologies is building the next generation of commercial credit intelligence software for middle-market companies, corporate finance teams, private equity sponsors, and lenders.
+LORIQ Technologies is a financial technology company founded by Ryan Toncheff. LORIQ Technologies is building the next generation of commercial credit intelligence software for middle-market companies, corporate finance teams, private equity sponsors, and lenders.
 
 Traditional ERP systems manage accounting. Treasury systems manage cash. LORIQ is designed to help organizations actively manage debt portfolios, loan agreements, covenant compliance, refinancing risk, and lender relationships from a single platform.
 
@@ -30,3 +30,4 @@ Ryan Toncheff is the founder of LORIQ Technologies and has more than 20 years of
 For more information, visit:
 
 https://www.loriq.ai
+Founder: Ryan Toncheff
